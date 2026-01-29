@@ -1,4 +1,4 @@
-Suodku Game
+Mega Sudoku Game
 <br /><br /><br />
 🏃 Getting Started<br />
 Clone the repository: <code>git clone https://github.com/your-username/sudoku-web-app.git</code>
